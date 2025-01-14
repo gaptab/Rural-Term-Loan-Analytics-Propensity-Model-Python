@@ -2,29 +2,29 @@
 
 ![alt text](https://github.com/gaptab/Rural-Term-Loan-Analytics-Propensity-Model-Python/blob/main/Vizualization.png)
 
-Address Verification:
+->Address Verification:
 
 A geo-location-based accuracy check identifies whether physical verification is needed, reducing workload for the Sales team.
 Rapid Lead Response System:
 
-Analyzes lead response times to ensure timely connectivity within 15 minutes.
+->Analyzes lead response times to ensure timely connectivity within 15 minutes.
 Propensity Model:
 
 Uses Random Forest to predict lead-to-login conversion, boosting disbursements by 33%.
-Lead Attribution:
+->Lead Attribution:
 
 Analyzes lead sources to attribute the most effective channels.
-Alternate Channels:
+->Alternate Channels:
 
 Compares main branches and localized spokes for effectiveness.
-Cross-Selling Strategy:
+->Cross-Selling Strategy:
 
 Behavioral analysis identifies Consumer Durables customers for cross-selling Personal Loans, increasing disbursal volume by 15%.
-Visualization:
+->Visualization:
 
 Visualizes disbursal amounts by lead source.
 
-the terms F1 Score, Precision, and Support have the following meanings:
+The terms F1 Score, Precision, and Support have the following meanings:
 
 Precision measures the proportion of correctly predicted positive observations to the total predicted positive observations. It answers the question: "Of all the instances predicted as positive, how many are actually positive?"
 High precision indicates that the model has a low false positive rate.
