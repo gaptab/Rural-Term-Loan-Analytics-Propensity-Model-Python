@@ -1,5 +1,5 @@
 # Rural-Term-Loan-Analytics-Propensity-Model-Python
-Random Forest, Logistic Regression, Pandas, NumPy, Sklearn, Matplotlib
+
 ![alt text](https://github.com/gaptab/Rural-Term-Loan-Analytics-Propensity-Model-Python/blob/main/Vizualization.png)
 
 Address Verification:
@@ -30,49 +30,16 @@ the terms F1 Score, Precision, and Support have the following meanings:
 Precision measures the proportion of correctly predicted positive observations to the total predicted positive observations. It answers the question: "Of all the instances predicted as positive, how many are actually positive?"
 
 Precision
-=
-True Positives
-True Positives
-+
-False Positives
-Precision= 
-True Positives+False Positives
-True Positives
-​
+
  
 High precision indicates that the model has a low false positive rate.
 2. Recall (Sensitivity or True Positive Rate)
 Although not directly mentioned in your question, recall is a closely related metric. Recall measures the proportion of correctly predicted positive observations to all actual positive observations. It answers: "Of all the actual positive instances, how many did the model correctly identify?"
-
-Recall
-=
-True Positives
-True Positives
-+
-False Negatives
-Recall= 
-True Positives+False Negatives
-True Positives
 ​
  
 3. F1 Score
 The F1 Score is the harmonic mean of precision and recall. It balances the two metrics and is especially useful when the class distribution is imbalanced.
 
-F1 Score
-=
-2
-×
-Precision
-×
-Recall
-Precision
-+
-Recall
-F1 Score=2× 
-Precision+Recall
-Precision×Recall
-​
- 
 High F1 Score indicates both high precision and high recall.
 4. Support
 Support is the number of actual occurrences of each class in the dataset. It helps understand the class distribution.
